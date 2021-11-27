@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  
+
+}
+.block{
+  width: 150px;
+  height: 150px;
+  border: 5px solid #fff;
+  background-size: cover;
+  display: inline-block;
+}
+.img1{
+  background-image:url("https://pngimg.com/uploads/circle/circle_PNG81.png") ;
+}
+.img2{
+  background-image: url("https://freepngimg.com/thumb/red_cross/28029-3-red-cross-file.png");
+}
